@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "name": "brain-os",
+      "description": "Second Brain OS — 25 skills for knowledge management, deep thinking, and vault operations powered by Obsidian.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sonthanh/brain-os-plugin.git"
+      },
+      "homepage": "https://github.com/sonthanh/brain-os-plugin"
+    }
+  ]
+}

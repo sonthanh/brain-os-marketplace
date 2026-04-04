@@ -1,8 +1,15 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "brain-os-marketplace",
+  "description": "Brain OS plugin marketplace — second brain powered by Obsidian",
+  "owner": {
+    "name": "Thanh Do",
+    "email": "thanhdo@example.com"
+  },
   "plugins": [
     {
       "name": "brain-os",
-      "description": "Second Brain OS — 25 skills for knowledge management, deep thinking, and vault operations powered by Obsidian.",
+      "description": "Second Brain OS — 24 skills for knowledge management, deep thinking, and vault operations powered by Obsidian.",
       "category": "productivity",
       "source": {
         "source": "url",

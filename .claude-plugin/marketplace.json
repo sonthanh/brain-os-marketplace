@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "brain-os",
-      "description": "Second Brain OS — 24 skills for knowledge management, deep thinking, and vault operations powered by Obsidian.",
+      "description": "Second Brain OS — 16 skills for knowledge management, deep thinking, and vault operations powered by Obsidian.",
       "category": "productivity",
       "source": {
         "source": "url",

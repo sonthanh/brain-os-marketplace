@@ -16,6 +16,16 @@
         "url": "https://github.com/sonthanh/brain-os-plugin.git"
       },
       "homepage": "https://github.com/sonthanh/brain-os-plugin"
+    },
+    {
+      "name": "ai-leaders-vietnam",
+      "description": "Content pipeline for AI Leaders Vietnam — 10 skills for structured writing, voice checking, evaluation, and publishing for Facebook + Substack.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sonthanh/ai-leaders-vietnam-plugin.git"
+      },
+      "homepage": "https://github.com/sonthanh/ai-leaders-vietnam-plugin"
     }
   ]
 }

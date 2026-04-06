@@ -1,0 +1,3 @@
+# Gitleaks false positive fingerprints
+# Add fingerprints from `gitleaks detect` output for known safe findings
+# Format: one fingerprint per line (commit:file:rule:line hash)
